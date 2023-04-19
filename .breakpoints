@@ -1,0 +1,796 @@
+{
+  "files": {
+    "src/cogs/esports/views/scrims/_wiz.py": [
+      {
+        "id": "4fd987dc-9f6c-451f-b314-b51afbd8eb5f",
+        "line": 41,
+        "version": 172,
+        "index": 1029
+      },
+      {
+        "id": "853bf105-7779-4146-877a-aa820f95a964",
+        "line": 66,
+        "version": 172,
+        "index": 2530
+      }
+    ],
+    "src/cogs/esports/views/scrims/main.py": [
+      {
+        "id": "9a59e1d5-cc7c-4dce-8a3a-56d76e4339ff",
+        "line": 31,
+        "version": 120,
+        "index": 718
+      },
+      {
+        "id": "2ada58dd-4b9a-483d-98fb-14e75ec9748f",
+        "line": 42,
+        "version": 120,
+        "index": 1281
+      }
+    ],
+    "src/cogs/esports/views/tourney/slotm.py": [
+      {
+        "id": "0b1006b7-f20f-4a2b-a593-b3543aeb5024",
+        "line": 15,
+        "version": 11,
+        "index": 292
+      }
+    ],
+    "src/cogs/events/cmds.py": [
+      {
+        "id": "25795e22-5f54-457e-a30e-7a9192e9996e",
+        "line": 31,
+        "version": 34,
+        "index": 792
+      },
+      {
+        "id": "f53812a7-1e88-45c9-ae5a-1bb687f6d132",
+        "line": 69,
+        "version": 34,
+        "index": 1847
+      },
+      {
+        "id": "54d19829-24a6-48b6-93da-899e570be457",
+        "line": 77,
+        "version": 34,
+        "index": 2257
+      }
+    ],
+    "src/cogs/events/votes.py": [
+      {
+        "id": "d97ed5e7-5be2-44c1-8a51-5b26ab2c43a7",
+        "line": 52,
+        "version": 11,
+        "index": 1752
+      }
+    ],
+    "src/cogs/premium/__init__.py": [
+      {
+        "id": "d9f3c8f5-f20d-4ca3-b252-67e063b0efa7",
+        "line": 31,
+        "version": 43,
+        "index": 684
+      },
+      {
+        "id": "cd268ba8-3c65-448c-91c7-f17397fb07de",
+        "line": 39,
+        "version": 43,
+        "index": 1006
+      },
+      {
+        "id": "6b19f3f7-9f2c-40a7-ade4-ae9ba691d62c",
+        "line": 58,
+        "version": 43,
+        "index": 1804
+      },
+      {
+        "id": "bfd00dd8-06c8-4583-ace2-b519e92484fe",
+        "line": 66,
+        "version": 43,
+        "index": 2237
+      },
+      {
+        "id": "87c9895a-3085-4597-af27-ae493b703f7f",
+        "line": 69,
+        "version": 43,
+        "index": 2346
+      },
+      {
+        "id": "1a010426-cf2c-4840-bba9-7df10a7078c5",
+        "line": 70,
+        "version": 43,
+        "index": 2441
+      },
+      {
+        "id": "4eef0bf4-d7a2-4c44-af50-471a16c5f13c",
+        "line": 71,
+        "version": 43,
+        "index": 2502
+      },
+      {
+        "id": "2f0b5851-8b58-4018-8363-2d1de1bf8a03",
+        "line": 132,
+        "version": 43,
+        "index": 4928
+      },
+      {
+        "id": "f630091e-ed4a-473c-ade3-1dbf8f85af4e",
+        "line": 183,
+        "version": 43,
+        "index": 6940
+      },
+      {
+        "id": "f16a7775-701d-4d0d-9572-a3c8073d3522",
+        "line": 193,
+        "version": 43,
+        "index": 7400
+      },
+      {
+        "id": "9e9ccbdd-b84f-40dc-bba3-50ee01263b46",
+        "line": 197,
+        "version": 43,
+        "index": 7584
+      },
+      {
+        "id": "5c9d7e14-36ed-4936-9af7-93b7b14c6cce",
+        "line": 198,
+        "version": 43,
+        "index": 7763
+      },
+      {
+        "id": "7fb6ceb4-57c0-400c-9872-fc35cb8249aa",
+        "line": 203,
+        "version": 43,
+        "index": 8028
+      }
+    ],
+    "src/cogs/premium/views.py": [
+      {
+        "id": "fad49931-c25c-4636-9774-c1109dc2f7b1",
+        "line": 6,
+        "version": 563,
+        "index": 120
+      },
+      {
+        "id": "6365939a-0fdf-4e73-9041-a124afc65998",
+        "line": 56,
+        "version": 563,
+        "index": 2620
+      },
+      {
+        "id": "49853115-4305-4b14-964c-eccd77de4014",
+        "line": 61,
+        "version": 563,
+        "index": 2735
+      },
+      {
+        "id": "f39df2ab-9993-41d7-aa60-b2a9209cd0f1",
+        "line": 63,
+        "version": 563,
+        "index": 2860
+      },
+      {
+        "id": "7c428b12-9d79-4f19-8f0e-c53543f36ea8",
+        "line": 72,
+        "version": 563,
+        "index": 3138
+      },
+      {
+        "id": "77a4dd65-0bb4-475c-b101-e614cce69a65",
+        "line": 75,
+        "version": 563,
+        "index": 3290
+      },
+      {
+        "id": "48099d2d-6e95-4401-a46e-2b7a752b9449",
+        "line": 76,
+        "version": 563,
+        "index": 3322
+      },
+      {
+        "id": "21ffeaff-9da2-4444-9545-241c0377ffa6",
+        "line": 77,
+        "version": 563,
+        "index": 3375
+      }
+    ],
+    "src/cogs/quomisc/__init__.py": [
+      {
+        "id": "b2ea49bc-d955-4c45-ae7e-e75ca55be350",
+        "line": 43,
+        "version": 79,
+        "index": 915
+      },
+      {
+        "id": "2ac5d44b-cc6b-4f9e-a76d-3d12276d7cac",
+        "line": 44,
+        "version": 79,
+        "index": 975
+      },
+      {
+        "id": "ac23b4ce-f5c8-425c-bf2b-d5cbf65bd99a",
+        "line": 102,
+        "version": 79,
+        "index": 3313
+      },
+      {
+        "id": "31c09826-072a-4025-b25f-89fd6abc6088",
+        "line": 120,
+        "version": 79,
+        "index": 4333
+      },
+      {
+        "id": "2016ac08-8f62-4eaf-9d10-f84a51f7bac3",
+        "line": 121,
+        "version": 79,
+        "index": 4392
+      },
+      {
+        "id": "a8658ee5-31c4-4630-bacf-da159b0db925",
+        "line": 122,
+        "version": 79,
+        "index": 4479
+      },
+      {
+        "id": "b03aaadb-ae6c-44dc-bef7-f39ca8f4f4f0",
+        "line": 147,
+        "version": 79,
+        "index": 5654
+      },
+      {
+        "id": "3e016a81-a3d6-482f-b2ff-a2381c6e4270",
+        "line": 157,
+        "version": 79,
+        "index": 6188
+      },
+      {
+        "id": "0e24c41e-b434-4f88-95ce-42a10615e9b1",
+        "line": 181,
+        "version": 79,
+        "index": 7215
+      },
+      {
+        "id": "0422e8c7-eeb6-4e58-a63b-1cc055376271",
+        "line": 245,
+        "version": 79,
+        "index": 10483
+      },
+      {
+        "id": "262fd7af-db8c-4882-aae0-8edd118e9ee1",
+        "line": 256,
+        "version": 79,
+        "index": 10978
+      },
+      {
+        "id": "7a27cf00-1f73-48bd-94e1-f50942ba0617",
+        "line": 268,
+        "version": 79,
+        "index": 11478
+      },
+      {
+        "id": "f6bec542-96c8-4568-b039-e8c4ec74032a",
+        "line": 272,
+        "version": 79,
+        "index": 11623
+      },
+      {
+        "id": "e4219d98-ab3b-494f-9119-34620430cdbe",
+        "line": 273,
+        "version": 79,
+        "index": 11691
+      },
+      {
+        "id": "415217dd-1714-49c3-81b8-6f1c729b73dd",
+        "line": 288,
+        "version": 79,
+        "index": 12269
+      },
+      {
+        "id": "35bbdfd1-39c7-4f1e-906a-98b2021e31d7",
+        "line": 289,
+        "version": 79,
+        "index": 12297
+      },
+      {
+        "id": "76e035f9-59ff-490e-bda1-3e559dd247cc",
+        "line": 290,
+        "version": 79,
+        "index": 12364
+      },
+      {
+        "id": "f7833464-2ca0-4ffb-99fc-63537917d4e1",
+        "line": 301,
+        "version": 79,
+        "index": 12755
+      },
+      {
+        "id": "1c698e27-ba76-4b1e-8394-4e9a4c38c3b2",
+        "line": 302,
+        "version": 79,
+        "index": 12793
+      },
+      {
+        "id": "deef42eb-904e-4e01-a404-289c70164986",
+        "line": 315,
+        "version": 79,
+        "index": 13306
+      }
+    ],
+    "src/cogs/quomisc/alerts.py": [
+      {
+        "id": "1a942199-916c-42d4-802e-c4413415e93d",
+        "line": 87,
+        "version": 1,
+        "index": 2840
+      }
+    ],
+    "src/core/Bot.py": [
+      {
+        "id": "5a4ef1ae-0be0-49a6-b869-472355cdcdee",
+        "line": 122,
+        "version": 732,
+        "index": 3580
+      },
+      {
+        "id": "1b26b785-9967-44a7-b0af-9f53a7cf6c3a",
+        "line": 123,
+        "version": 732,
+        "index": 3604
+      },
+      {
+        "id": "d5914162-6ba1-4d15-b5ba-325549b973ec",
+        "line": 124,
+        "version": 732,
+        "index": 3646
+      },
+      {
+        "id": "b6883ca4-0a0a-4b69-a935-d3c9dc036ea9",
+        "line": 126,
+        "version": 732,
+        "index": 3679
+      },
+      {
+        "id": "c9fb0f7b-eb8d-4aa6-bc58-5eb1fc75d1f1",
+        "line": 126,
+        "version": 732,
+        "index": 3680
+      },
+      {
+        "id": "1bf9efd7-c31b-4c35-a1ec-77055eaf6424",
+        "line": 127,
+        "version": 732,
+        "index": 3734
+      },
+      {
+        "id": "716b0acd-0ec0-47a7-88da-7d15defc000b",
+        "line": 128,
+        "version": 732,
+        "index": 3806
+      },
+      {
+        "id": "d4119d13-e0ad-4ceb-96d6-124b715310db",
+        "line": 131,
+        "version": 732,
+        "index": 3860
+      },
+      {
+        "id": "056585c9-10a6-4381-8fdf-c222c100ea7d",
+        "line": 142,
+        "version": 732,
+        "index": 4149
+      },
+      {
+        "id": "cca05ab9-2bba-43f0-b761-3fa1c2c65632",
+        "line": 154,
+        "version": 732,
+        "index": 4512
+      },
+      {
+        "id": "b1c96cdc-5ec1-4cf5-98ec-ac64c7019ac3",
+        "line": 227,
+        "version": 732,
+        "index": 6960
+      },
+      {
+        "id": "f16ab622-5931-4d00-9c4a-e8be51974cfd",
+        "line": 230,
+        "version": 732,
+        "index": 7007
+      }
+    ],
+    "src/core/Context.py": [
+      {
+        "id": "8b3dcb02-1a01-43d7-bc24-d5d9b5cdf3a2",
+        "line": 141,
+        "version": 16,
+        "index": 4150
+      },
+      {
+        "id": "62d691f1-2896-4a87-a7db-63889fffb52c",
+        "line": 142,
+        "version": 16,
+        "index": 4196
+      },
+      {
+        "id": "47943f1a-55bc-415d-8487-cade126e28d3",
+        "line": 143,
+        "version": 16,
+        "index": 4229
+      },
+      {
+        "id": "5d05c3af-3c52-42b4-a8f9-08db2c668074",
+        "line": 144,
+        "version": 16,
+        "index": 4230
+      },
+      {
+        "id": "ac82f66e-cc17-4d32-a786-702638e8d190",
+        "line": 145,
+        "version": 16,
+        "index": 4269
+      },
+      {
+        "id": "36ee28ee-45b1-4326-9363-935e7f94f8f8",
+        "line": 146,
+        "version": 16,
+        "index": 4341
+      },
+      {
+        "id": "4ede78ed-6de3-4f5a-8bc5-e3095ca742ba",
+        "line": 147,
+        "version": 16,
+        "index": 4342
+      },
+      {
+        "id": "af256f12-cf25-4787-8dba-a8bd03bdd43a",
+        "line": 148,
+        "version": 16,
+        "index": 4363
+      },
+      {
+        "id": "2d9ed16a-3972-41b5-bcce-f70b740cefb9",
+        "line": 209,
+        "version": 16,
+        "index": 6448
+      }
+    ],
+    "src/core/Help.py": [
+      {
+        "id": "568e0ebd-0a30-4529-ab85-0d9d093e15d1",
+        "line": 37,
+        "version": 27,
+        "index": 954
+      },
+      {
+        "id": "9ff5cbd6-108d-454d-9013-2c4d9f43ae66",
+        "line": 41,
+        "version": 27,
+        "index": 1082
+      },
+      {
+        "id": "794012fa-94a9-4896-8d41-41eec64fb402",
+        "line": 41,
+        "version": 27,
+        "index": 1082
+      },
+      {
+        "id": "fa49e80f-f6fe-432e-9357-a9458c548063",
+        "line": 41,
+        "version": 27,
+        "index": 1082
+      },
+      {
+        "id": "8696bece-cc2b-4b9c-ae93-cae660411bb2",
+        "line": 43,
+        "version": 27,
+        "index": 1178
+      }
+    ],
+    "src/core/_pages.py": [
+      {
+        "id": "79519502-f3d6-45e7-9aaf-bf3f119b9c4e",
+        "line": 144,
+        "version": 1,
+        "index": 3645
+      },
+      {
+        "id": "f786bc59-1b0d-4b2a-8854-6b859c509279",
+        "line": 153,
+        "version": 1,
+        "index": 3953
+      },
+      {
+        "id": "0314a07c-73d3-4fae-83f5-1be16922fa1a",
+        "line": 209,
+        "version": 1,
+        "index": 6147
+      },
+      {
+        "id": "1d6ad95c-9db5-4201-9615-cbaf848015d1",
+        "line": 223,
+        "version": 1,
+        "index": 6635
+      }
+    ],
+    "src/core/embeds.py": [
+      {
+        "id": "e62ec93f-c66b-4939-967f-ef4f0abae64e",
+        "line": 30,
+        "version": 1,
+        "index": 817
+      },
+      {
+        "id": "72dd7432-1016-4088-9875-7015209e4d08",
+        "line": 37,
+        "version": 1,
+        "index": 1171
+      },
+      {
+        "id": "a24aa543-ad21-4a2f-92c0-d85b2c98f18f",
+        "line": 43,
+        "version": 1,
+        "index": 1426
+      },
+      {
+        "id": "c27641dd-3fce-4640-a7c7-f6d2b7ef20bb",
+        "line": 49,
+        "version": 1,
+        "index": 1687
+      },
+      {
+        "id": "b315881f-276d-4bb0-a2b2-d625651a3e34",
+        "line": 55,
+        "version": 1,
+        "index": 1953
+      },
+      {
+        "id": "88962a5a-787f-4a4d-a96a-7d970bf1c70c",
+        "line": 242,
+        "version": 1,
+        "index": 8546
+      },
+      {
+        "id": "3b06059c-8b20-4b4e-b3cd-ab35c666827c",
+        "line": 244,
+        "version": 1,
+        "index": 8693
+      },
+      {
+        "id": "0e8c09cc-a5c7-4bdd-902c-b06e615a569f",
+        "line": 246,
+        "version": 1,
+        "index": 8830
+      },
+      {
+        "id": "fc683b75-408f-4ee9-b2ce-d08edc7910c6",
+        "line": 248,
+        "version": 1,
+        "index": 8894
+      },
+      {
+        "id": "1038ec1b-7c0c-4bbc-9973-e4e292d6d555",
+        "line": 249,
+        "version": 1,
+        "index": 9018
+      }
+    ],
+    "src/core/views.py": [
+      {
+        "id": "0c0e5d1f-58bc-4d7a-aba6-593a13d844db",
+        "line": 13,
+        "version": 1,
+        "index": 218
+      }
+    ],
+    "src/sockets/events/premium.py": [
+      {
+        "id": "8e79738a-64cf-45ca-b1ea-a5cdc93001dc",
+        "line": 47,
+        "version": 7,
+        "index": 1403
+      },
+      {
+        "id": "2fc3abe7-93ab-48ee-aecc-10a288ce516d",
+        "line": 58,
+        "version": 7,
+        "index": 1957
+      },
+      {
+        "id": "842f777b-f05d-4d7c-b16e-8adb13de6b81",
+        "line": 59,
+        "version": 7,
+        "index": 2012
+      },
+      {
+        "id": "2215b733-d2c0-4729-8749-acd4cbd0698d",
+        "line": 60,
+        "version": 7,
+        "index": 2061
+      },
+      {
+        "id": "c21ff177-ac54-44ba-8c15-1affa0b92180",
+        "line": 72,
+        "version": 7,
+        "index": 2392
+      }
+    ],
+    "src/sockets/schemas/_guild.py": [
+      {
+        "id": "2ed17d02-c6cf-4a7c-8994-3a34a12d9c7a",
+        "line": 25,
+        "version": 1,
+        "index": 477
+      }
+    ],
+    "src/sockets/schemas/_scrim.py": [
+      {
+        "id": "b5c2917f-e111-481b-bebd-b83c71b10a58",
+        "line": 41,
+        "version": 14,
+        "index": 924
+      },
+      {
+        "id": "a737b1cc-b0db-443d-a4c8-b3f8e3eb40da",
+        "line": 85,
+        "version": 14,
+        "index": 2382
+      },
+      {
+        "id": "65598923-9ad7-4f7d-9a46-97fa72b337ab",
+        "line": 89,
+        "version": 14,
+        "index": 2598
+      },
+      {
+        "id": "d5e0d5c8-6a54-4f20-b733-59b91c59f0cd",
+        "line": 93,
+        "version": 14,
+        "index": 2746
+      },
+      {
+        "id": "ee0a5b96-e8bd-40aa-9d7a-a7129a9c3993",
+        "line": 96,
+        "version": 14,
+        "index": 2847
+      },
+      {
+        "id": "862e2218-3894-47ce-a16f-7cb472726f4a",
+        "line": 108,
+        "version": 14,
+        "index": 3353
+      },
+      {
+        "id": "c59ee2aa-fe00-4590-b946-98e05397666f",
+        "line": 111,
+        "version": 14,
+        "index": 3530
+      }
+    ],
+    "src/sockets/schemas/_tourney.py": [
+      {
+        "id": "fe72eee2-14b1-4571-b4bc-610d50cd114a",
+        "line": 11,
+        "version": 1,
+        "index": 181
+      }
+    ],
+    "src/utils/exceptions.py": [
+      {
+        "id": "a3cf8b87-71ae-4e41-8874-4a646483df8b",
+        "line": 11,
+        "version": 1,
+        "index": 171
+      },
+      {
+        "id": "d60c99c5-e43e-42df-af0e-f769848df3c3",
+        "line": 18,
+        "version": 1,
+        "index": 394
+      },
+      {
+        "id": "c4daad92-58c4-42ec-9e2e-e91e5da059a9",
+        "line": 25,
+        "version": 1,
+        "index": 614
+      }
+    ],
+    "src/utils/paginator.py": [
+      {
+        "id": "1cac634b-1bd0-4b05-be22-74a0cccf2365",
+        "line": 157,
+        "version": 1,
+        "index": 4182
+      },
+      {
+        "id": "c4bc6daa-3348-40b2-a05d-4155730c368c",
+        "line": 158,
+        "version": 1,
+        "index": 4300
+      },
+      {
+        "id": "62d5e52f-6dcd-466d-a4b0-3ef7f753eac2",
+        "line": 159,
+        "version": 1,
+        "index": 4388
+      },
+      {
+        "id": "1ef62e08-207f-4e6b-b6aa-b78ad105426b",
+        "line": 160,
+        "version": 1,
+        "index": 4431
+      },
+      {
+        "id": "e61a0448-1b22-4e23-80de-218c33454cbe",
+        "line": 161,
+        "version": 1,
+        "index": 4468
+      },
+      {
+        "id": "8975cbb6-3768-4de6-91b3-3beb06102dee",
+        "line": 166,
+        "version": 1,
+        "index": 4594
+      },
+      {
+        "id": "ce2cdce9-b54c-449a-8493-9a4ae88c5a41",
+        "line": 167,
+        "version": 1,
+        "index": 4708
+      },
+      {
+        "id": "9fdf6559-76ec-4542-b32d-9f37782d5873",
+        "line": 168,
+        "version": 1,
+        "index": 4799
+      },
+      {
+        "id": "a953b3be-431e-44bf-9757-99c478a10df5",
+        "line": 169,
+        "version": 1,
+        "index": 4842
+      },
+      {
+        "id": "928576ec-e9dd-4d89-9778-a9bc9fa3bd0c",
+        "line": 174,
+        "version": 1,
+        "index": 5007
+      },
+      {
+        "id": "96565486-9e11-492d-b806-3aa8857c73f6",
+        "line": 175,
+        "version": 1,
+        "index": 5118
+      },
+      {
+        "id": "cf14b787-b45e-49ec-b13d-2e1e450f3c7e",
+        "line": 176,
+        "version": 1,
+        "index": 5205
+      },
+      {
+        "id": "f87cd58a-c20e-4914-af2c-916b57864bc7",
+        "line": 177,
+        "version": 1,
+        "index": 5248
+      },
+      {
+        "id": "b84b6c45-3c3b-4d68-a5e5-15225295a86a",
+        "line": 183,
+        "version": 1,
+        "index": 5410
+      },
+      {
+        "id": "2c817ccd-b935-461e-9387-93b5b507e48f",
+        "line": 184,
+        "version": 1,
+        "index": 5528
+      },
+      {
+        "id": "fcbd6a93-4d88-4f63-a9e9-6f3de87c77ae",
+        "line": 185,
+        "version": 1,
+        "index": 5615
+      }
+    ]
+  }
+}
